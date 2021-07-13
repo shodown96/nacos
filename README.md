@@ -4,9 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## This project was built for LMU's NACOS Website.
 
-### Development && Deployment
+### Development and Deployment
 
 ### `npm start` to run server
 
-### `npm run build` fails to minify
+### `npm run build` to build
 
